@@ -1,3 +1,5 @@
+// Bu faylni Asadbek o'zgartirdi
+
 // Function
 // Logical Operators
 // Ternary
