@@ -1,4 +1,5 @@
 // Bu faylni Asadbek o'zgartirdi
+// Bu faylni O'roljon o'zgartirdi
 
 // Function
 // Logical Operators
